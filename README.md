@@ -1,3 +1,3 @@
-#Simple Snake Games
+# Simple Snake Games
 
 https://costranz.github.io/snakegame/
